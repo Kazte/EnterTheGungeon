@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4fa976ceac142faac84c12282c682a3, type: 3}
+  m_Name: SMG
+  m_EditorClassIdentifier: 
+  _weaponName: SMG
+  _weaponIcon: {fileID: -7017966127842695177, guid: cd7a18521fd288a4aa31b25e754dee9f, type: 3}
+  _magazineSize: 25
+  _maxAmmo: 25
+  _damage: 2
+  _damageRandomRate: 1
+  _fireRate: 0.1
+  _spread: 4
+  _force: 9
+  _reloadTime: 0.78
+  _sellPrice: 0
